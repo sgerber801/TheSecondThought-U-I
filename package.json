@@ -1,0 +1,36 @@
+{
+  "name": "thesecondthought-u-i",
+  "version": "1.0.0",
+  "description": "U-I Elements working with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgerber801/TheSecondThought-U-I.git"
+  },
+  "keywords": [
+    "repo",
+    "for",
+    "react"
+  ],
+  "author": "sgerber801",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgerber801/TheSecondThought-U-I/issues"
+  },
+  "homepage": "https://github.com/sgerber801/TheSecondThought-U-I#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "storybook": "^1.0.0"
+  },
+  "devDependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "peerDependencies": {
+    "redux": "^4.0.0"
+  }
+}
