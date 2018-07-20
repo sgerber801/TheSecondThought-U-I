@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "axios": "^0.18.0",
+    "emotion": "^9.2.6",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   }
